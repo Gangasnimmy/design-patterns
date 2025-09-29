@@ -1,0 +1,10 @@
+[Log] This statement written by thread 0
+[Log] This statement written by thread 1
+[Log] This statement written by thread 2
+[Log] This statement written by thread 3
+[Log] This statement written by thread 4
+[Log] Thread 0 is logged to the file
+[Log] Thread 1 is logged to the file
+[Log] Thread 2 is logged to the file
+[Log] Thread 3 is logged to the file
+[Log] Thread 4 is logged to the file
